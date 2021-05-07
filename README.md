@@ -28,5 +28,7 @@ The Julia set is now associated with those points z = x + iy on the complex plan
  ![alt text](https://github.com/praveendhananjaya/Fractals/blob/main/Julia-set.png?raw=true)
  
  
+Class diagram
+![alt text](https://github.com/praveendhananjaya/Fractals/blob/main/diagr.png?raw=true)
  
  
