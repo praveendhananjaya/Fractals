@@ -12,3 +12,10 @@ The term Mandelbrot set is used to refer both to a general class of fractal sets
  
 
 ## Julia Set
+
+The Julia set is now associated with those points z = x + iy on the complex plane for which the series zn+1 = zn2 + c does not tend to infinity. c is a complex constant, one gets a different Julia set for each c. The initial value z0 for the series is each point in the image plane. In the broader sense the exact form of the iterated function may be anything, the general form being zn+1 = f(zn), interesting sets arise with non-linear functions f(z). Commonly used functions include the following:
+
+
+ ![alt text](https://github.com/praveendhananjaya/Fractals/blob/main/Julia-set.png?raw=true)
+ 
+ 
