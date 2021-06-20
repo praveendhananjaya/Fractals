@@ -4,6 +4,7 @@ A fractal is a never-ending pattern. Fractals are infinitely complex patterns th
 
 canvas 800x800 and 1000 iteration limit.
 
+Fractal Visualizer is java based program and calculates 640000 mandelbrot or Julia fractal within seconds. In order to maximize the performance, the master thread creates a job bank with 400 entries and continuously feeds. And these jobs are processed by CPUs. As a result, both CPUs and jobs aren’t starving without resources
    
  
 ## Mandelbrot set
